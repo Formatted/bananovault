@@ -1,7 +1,7 @@
 # BananoVault
 
 BananoVault is a fully client-side signing wallet for sending and receiving [Banano](https://github.com/bananocoin/banano)
-on your [desktop](https://github.com/bananocoin/bananovault/releases) or [in your browser](https://vault.banano.co.in)
+on your [desktop](https://github.com/bananocoin/bananovault/releases) or [in your browser](https://vault.banano.co.in).
 
 ![BananoVault Screenshot](https://i.imgur.com/DWlPQdM.png)
 ___
